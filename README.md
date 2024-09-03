@@ -1,8 +1,8 @@
 <img width="100%" alt="image" src="https://user-images.githubusercontent.com/129714988/230786429-ae7d00b6-3375-452d-bc00-adbf780ad5f5.png">
 
-# Laravel React Vite Stisla
+# Laravel React Vite
 
-This project is a web application built with Laravel, ReactJS with Vite, and Stisla Admin Template. The web application is designed to provide a user-friendly interface for managing data with the CRUD, searching, pagination, showing, single page application, and validation features.
+This project is a web application built with Laravel, ReactJS with Vite, and Admin Template. The web application is designed to provide a user-friendly interface for managing data with the CRUD, searching, pagination, showing, single page application, and validation features.
 
 ## Folder Structure
 
@@ -13,7 +13,7 @@ This project is a web application built with Laravel, ReactJS with Vite, and Sti
 
 - Laravel for backend RESTful API
 - ReactJS with Vite for frontend development
-- Stisla Admin Template for responsive and user-friendly interface
+- Admin Template for responsive and user-friendly interface
 - CRUD operations for managing data
 - Searching and pagination functionality
 - Single page application with React Router
@@ -27,16 +27,16 @@ This project is a web application built with Laravel, ReactJS with Vite, and Sti
 
 1. PHP >= 8.1 or new
 2. Composer
-3. Node.js last version
-4. NPM last version
-5. MySQL or MariaDB last version
+3. Node.js lastest version
+4. NPM lastest version
+5. MySQL lastest version
 
 ## Installation
 
 1. Clone this repository to your local machine:
 
 ```
-git clone https://github.com/fhmiibrhimdev/laravel-react-vite-stisla.git
+git clone https://github.com/harun1302123/laravel-react-vite.git
 ```
 
 2. Install the dependencies for the Laravel project:
